@@ -41,7 +41,7 @@ Streaming.Technology.Project
 </head>
 <body>
 
-  <h1>✅ My Name: Alex Rivera</h1>
+  <h1>✅ My Name: Michael Sher</h1>
   <h2>✅ Future Plans: I plan to study computer science in college and become a software engineer.</h2>
 
   <div class="section">
