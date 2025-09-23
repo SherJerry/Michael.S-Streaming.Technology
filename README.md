@@ -3,6 +3,7 @@ Streaming.Technology.Project
 <!DOCTYPE html>
 <html lang="en">
 <head>
+ <link rel="stylesheet" href="style.css">
   <meta charset="UTF-8">
   <title>My Class Project</title>
   <style>
@@ -41,34 +42,25 @@ Streaming.Technology.Project
 </head>
 <body>
 
-  <h1>✅ My Name: Michael Sher</h1>
-  <h2>✅ Future Plans: I plan to study computer science in college and become a software engineer.</h2>
+ 
+  <h2>In the future</h2><h>I want to study computer science in college to learn more about technology and programming. I hope to become an engineer so I can use what I’ve learned to solve real problems. I’m excited to keep learning and grow in this field to create new and useful things.
+</h>
 
   <div class="section">
-    <h2>✅ Unit Materials</h2>
-    <ul>
-      <li><a href="https://example.com/unit1-materials" target="_blank">Unit 1 Materials</a></li>
-      <li><a href="https://example.com/unit2-materials" target="_blank">Unit 2 Materials</a></li>
-    </ul>
+    <h2>Streaming technology</h2>
+    <img src="image.png" alt="Digital Citizenship">
+    <li><strong>Digital Footprint: Streaming technology means you can watch videos or listen to music on the internet right away, without waiting for the whole file to download. It plays as it loads, like when you watch YouTube or listen to songs online.</strong> </li>
   </div>
 
-  <div class="section">
-    <h2>✅ Unit 1 Picture: Digital Citizenship</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Digital_citizenship_concept.jpg/800px-Digital_citizenship_concept.jpg" alt="Digital Citizenship">
-  </div>
-
-  <div class="section">
-    <h2>✅ Unit 2 Picture: Online Safety</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Internet-Security.jpg/800px-Internet-Security.jpg" alt="Online Safety">
-  </div>
-
-  <div class="section">
-    <h2>✅ Embedded Video: What is Digital Citizenship?</h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/TbNymweHW4E" allowfullscreen></iframe>
-  </div>
+ <div class="video-container">
+      <video width="400" controls>
+  <source src="Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+    </div>
 
   <div class="section vocab">
-    <h2>✅ Vocabulary Words</h2>
+    <h2>Vocabulary Words</h2>
     <ul>
       <li><strong>Digital Footprint:</strong> The trail of data you leave behind on the internet.</li>
       <li><strong>Cyberbullying:</strong> The use of technology to harass or bully someone online.</li>
@@ -78,8 +70,10 @@ Streaming.Technology.Project
     </ul>
   </div>
 
+
+
   <div class="section">
-    <h2>✅ Researched Topic: The Importance of Two-Factor Authentication</h2>
+    <h2> Researched Topic: The Importance of Two-Factor Authentication</h2>
     <p>
       Two-factor authentication (2FA) adds an extra layer of security to your online accounts. 
       In addition to your password, it requires a second factor like a text code or app confirmation. 
@@ -89,16 +83,3 @@ Streaming.Technology.Project
 
 </body>
 </html>
-// 📝 What to Customize:
-
-Change "Alex Rivera" to your name.
-
-Update Unit 1 & 2 links to actual resources your class uses.
-
-Replace images if you have better or specific ones.
-
-You can swap the video link with another related YouTube video.
-
-Vocabulary words can match your class list.
-
-Replace the researched topic section with any topic from your list.//
